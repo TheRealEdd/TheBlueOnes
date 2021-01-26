@@ -6174,7 +6174,7 @@ MonoBehaviour:
   - {fileID: 88938863}
   - {fileID: 1878279096}
   - {fileID: 1190032019}
-  speed: 150
+  speed: 20
 --- !u!1 &1899588906
 GameObject:
   m_ObjectHideFlags: 0
