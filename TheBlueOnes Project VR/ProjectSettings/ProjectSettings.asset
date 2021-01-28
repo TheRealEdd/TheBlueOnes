@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: TheBlueOnes
-  productName: SkiRange Shooting Test Environment
+  productName: Axamer Lizum Jagged Movement (against motion sickness)
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -126,9 +126,9 @@ PlayerSettings:
     Others: 1
   bundleVersion: 0.1
   preloadedAssets:
+  - {fileID: 0}
   - {fileID: 6687871419376034568, guid: cd65250415ad43f4f87bed7491a82c50, type: 2}
   - {fileID: 11400000, guid: adf7effbff9b86441927cabad7113ce6, type: 2}
-  - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
